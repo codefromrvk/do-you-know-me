@@ -1,0 +1,22 @@
+{
+  "name": "do-you-know-me",
+  "version": "1.0.0",
+  "description": "I have made a quiz to test how well do you know me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefromrvk/do-you-know-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefromrvk/do-you-know-me/issues"
+  },
+  "homepage": "https://github.com/codefromrvk/do-you-know-me#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
