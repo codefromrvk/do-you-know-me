@@ -18,7 +18,6 @@ console.log("Welcome " + userName + " to DO YOU KNOW RVK? ")
 
 function play(question, answer) {
     var userAnswer = readlineSync.question(question);
-    console.log(question, answer)
 
     if (userAnswer.toUpperCase() === answer.toUpperCase()) {
         console.log("right");
